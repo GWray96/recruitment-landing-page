@@ -66,7 +66,7 @@ export default function Pricing() {
             transition={{ duration: 0.8, delay: 0.1 }}
             className="mt-6 text-lg leading-8 text-gray-600 max-w-2xl mx-auto"
           >
-            Choose the perfect plan for your recruitment agency's needs
+            Choose the perfect plan for your recruitment agency&apos;s needs
           </motion.p>
         </div>
 
