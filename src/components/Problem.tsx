@@ -28,7 +28,7 @@ export default function Problem() {
                 The Problem
               </h2>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-                Recruitment agencies face tough challenges in today's digital landscape. Traditional digital marketing just isn't enough anymore.
+                In today&apos;s digital age, traditional recruitment methods aren&apos;t enough. You need a modern approach that combines AI, automation, and strategic marketing to stay ahead.
               </p>
               <div className="mt-8 space-y-4">
                 {challenges.map((challenge, index) => (

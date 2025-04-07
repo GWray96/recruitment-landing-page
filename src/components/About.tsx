@@ -37,7 +37,7 @@ export default function About() {
               About Us
             </h2>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              We're not just marketers—we're engineers, recruiters, and growth strategists. With 25+ years of experience in recruitment, digital marketing, and AI automation, we bring scalable systems to an industry that's overdue for change.
+              We&apos;re a team of digital marketing experts, AI specialists, and automation engineers who understand the unique challenges recruitment agencies face. Our mission is to help you leverage technology to streamline your operations and attract more clients.
             </p>
             <div className="mt-8 grid grid-cols-1 gap-8 sm:grid-cols-3">
               {team.map((member) => (

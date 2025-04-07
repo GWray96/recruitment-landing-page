@@ -113,7 +113,7 @@ export default function Pricing() {
                 </div>
               )}
               <h3 className="text-lg font-semibold leading-8">{plan.name}</h3>
-              <p className="mt-4 text-sm leading-6 opacity-80">{plan.description}</p>
+              <p className="mt-4 text-sm text-gray-500">Perfect for agencies just getting started with digital marketing</p>
               <p className="mt-6 flex items-baseline gap-x-1">
                 <span className="text-4xl font-bold tracking-tight">${plan.price}</span>
                 <span className="text-sm font-semibold leading-6">/month</span>

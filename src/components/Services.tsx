@@ -64,7 +64,7 @@ export default function Services() {
             transition={{ duration: 0.8, delay: 0.1 }}
             className="mt-6 text-lg leading-8 text-gray-600 max-w-2xl mx-auto"
           >
-            Comprehensive solutions to transform your recruitment agency's digital presence and operations
+            We&apos;re not just another digital marketing agency. We&apos;re specialists in recruitment marketing, combining AI and automation to deliver exceptional results.
           </motion.p>
         </div>
 

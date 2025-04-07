@@ -64,8 +64,8 @@ export default function Testimonials() {
                   <StarIcon key={i} className="h-5 w-5 text-yellow-400" aria-hidden="true" />
                 ))}
               </div>
-              <blockquote className="mt-6 text-lg leading-8 text-gray-900">
-                "{testimonial.content}"
+              <blockquote className="text-lg font-semibold leading-8 text-gray-900">
+                &quot;The team&apos;s expertise in recruitment marketing and AI automation has transformed our agency. We&apos;ve seen a 300% increase in qualified leads.&quot;
               </blockquote>
               <div className="mt-6">
                 <p className="text-base font-semibold leading-7 text-gray-900">

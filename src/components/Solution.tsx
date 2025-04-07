@@ -52,7 +52,7 @@ export default function Solution() {
             transition={{ duration: 0.8, delay: 0.1 }}
             className="mt-6 text-lg leading-8 text-gray-600 max-w-2xl mx-auto"
           >
-            We combine deep recruitment expertise with AI and automation to transform your agency's operations
+            We&apos;ve developed a proven system that combines AI-powered automation with strategic marketing to help recruitment agencies thrive in the digital age.
           </motion.p>
         </div>
 
